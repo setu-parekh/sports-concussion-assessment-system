@@ -15,14 +15,14 @@ Console application to help sport medical practitioners monitor athletes’ cond
 
 ## Objectives
 - Design and build a console based application for athletes and medical practitioners.
-- Describe the functionality and supported workflows using UML diagrams such as Use Case diagram, Class Responsibility Collector (CRC) models, and Class diagrams.
+- Describe the functionality and supported workflows using UML diagrams such as Use Case diagram, and Class diagrams.
 
 ## Application Design
 ### Use Case Diagram
-
-### CRC Models
+![Use Case Diagram](https://github.com/setu-parekh/sports-concussion-assessment-system/blob/main/images/use_case_diagram.png)
 
 ### Class Diagram
+![Class Diagram](https://github.com/setu-parekh/sports-concussion-assessment-system/blob/main/images/class_diagram.png)
 
 ## Run Locally
 * Make sure Java is installed. To verify, run: `java -version`
