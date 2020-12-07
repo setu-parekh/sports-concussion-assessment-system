@@ -296,14 +296,13 @@ public class applicationUI {
   public static ArrayList<Integer> fillSymptomAssessmentForm(){
     ArrayList<Integer> symptomScoreList = new ArrayList<Integer>();
 
-    // symptomsList = new String[] {"Headache", "Pressure in Head", "Neck Pain", "Nausea or Vomiting", "Dizziness",
-    //                                       "Blurred vision", "Balance problems", "Sensitivity to light", "Sensitivity to noise",
-    //                                       "Feeling slowed down", "Feeling like 'in a fog'", "Don't feel right",
-    //                                       "Difficulty concentrating", "Difficulty remembering", "Fatigue or low energy",
-    //                                       "Confusion", "Drowsiness", "Trouble falling asleep", "More emotional",
-    //                                       "Irritability", "Sadness", "Nervous or Anxious"};
+    symptomsList = new String[] {"Headache", "Pressure in Head", "Neck Pain", "Nausea or Vomiting", "Dizziness",
+                                          "Blurred vision", "Balance problems", "Sensitivity to light", "Sensitivity to noise",
+                                          "Feeling slowed down", "Feeling like 'in a fog'", "Don't feel right",
+                                          "Difficulty concentrating", "Difficulty remembering", "Fatigue or low energy",
+                                          "Confusion", "Drowsiness", "Trouble falling asleep", "More emotional",
+                                          "Irritability", "Sadness", "Nervous or Anxious"};
 
-    symptomsList = new String[] {"Headache", "Pressure in Head", "Neck Pain"};
     System.out.println();
     System.out.println("\t Enter your pain score from 0 - 6: none(0), mild(1-2), moderate(3-4), severe(5-6)");
 
