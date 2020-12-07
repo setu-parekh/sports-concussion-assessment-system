@@ -1,4 +1,4 @@
-# sports-concussion-assessment-system
+# Sports Concussion Assessment System
 Console application to help sport medical practitioners monitor athletes’ conditions for symptoms of concussion.
 
 ## Summary
