@@ -4,9 +4,9 @@ Console application to help sport medical practitioners monitor athletes’ cond
 ## Table of Contents
 * [Introduction](#introduction)
 * [Objectives](#objectives)
-* [Application Design](#application---design)
-* [Running Locally](#running---locally)
-* [Supported Functionality](#supported---functionality)
+* [Application Design](#application-design)
+* [Run Locally](#run-locally)
+* [Supported Functionality](#supported-functionality)
 
 ## Introduction
 - As of today, one of the most commonly used tool for assessing concussions in sports is a paper based diagnostic tool.
@@ -24,7 +24,7 @@ Console application to help sport medical practitioners monitor athletes’ cond
 
 ### Class Diagram
 
-## Application Design
+## Run Locally
 * Make sure Java is installed. To verify, run: `java -version`
 * Clone the project: `git clone https://github.com/setu-parekh/sports-concussion-assessment-system.git`
 * Route to the cloned project: `cd sports-concussion-assessment-system`
